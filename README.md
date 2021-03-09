@@ -2,6 +2,8 @@
 
 ## Estudiante: Maximiliano Borrelli
 
+### Ay no sé que poner pero cuenta como descripción creo
+
 ![io](io.jpg)
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
